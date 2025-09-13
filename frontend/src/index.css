@@ -1,0 +1,11 @@
+/* frontend/src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add any global custom styles here */
+body {
+  font-family: 'Inter', sans-serif; /* Example font */
+  background-color: #f3f4f6; /* Light gray background */
+  color: #333;
+}
